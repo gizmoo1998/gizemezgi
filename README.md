@@ -103,5 +103,6 @@ G1 first period grade (numeric: from 0 to 20) G2 second period grade (numeric: f
 ## DATA SOURCE  
 *I took the dataset from the data sharing platform called Kaggle, for my academic researches.
 
-REFERENCES
-Whenamancodes. (Year). Alcohol Effects on Study [Data set]. Kaggle. https://www.kaggle.com/datasets/whenamancodes/alcohol-effects-on-study
+## REFERENCES
+
+Whenamancodes. (Year). *Alcohol Effects on Study* [Data set]. Kaggle. [https://www.kaggle.com/datasets/whenamancodes/alcohol-effects-on-study](https://www.kaggle.com/datasets/whenamancodes/alcohol-effects-on-study)
